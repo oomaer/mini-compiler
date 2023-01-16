@@ -18,11 +18,11 @@ Sample Source Code:
 int x = 20;
 if  ( 0 < x ) 
 {
-	int fact = 1;
-	while ( x != 0 ) 
-	{
-		fact = fact * x;
-		x = x - 1;
-	}
-	print fact
+  int fact = 1;
+  while ( x != 0 ) 
+  {
+    fact = fact * x;
+    x = x - 1;
+  }
+  print fact
 }
