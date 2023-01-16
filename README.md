@@ -15,14 +15,14 @@ Stages in output:
 
 Sample Source Code:
 
-int x = 20;\n
-if  ( 0 < x )\n 
-{\n
-  int fact = 1;
-  while ( x != 0 ) 
-  {
-    fact = fact * x;
-    x = x - 1;
-  }
-  print fact
-}
+int x = 20;<br/>
+if  ( 0 < x )<br/>
+{<br/>
+  int fact = 1;<br/>
+  while ( x != 0 )<br/>
+  {<br/>
+    fact = fact * x;<br/>
+    x = x - 1;<br/>
+  }<br/>
+  print fact<br/>
+}<br/>
