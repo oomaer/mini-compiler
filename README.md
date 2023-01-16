@@ -15,9 +15,9 @@ Stages in output:
 
 Sample Source Code:
 
-int x = 20;
-if  ( 0 < x ) 
-{
+int x = 20;\n
+if  ( 0 < x )\n 
+{\n
   int fact = 1;
   while ( x != 0 ) 
   {
