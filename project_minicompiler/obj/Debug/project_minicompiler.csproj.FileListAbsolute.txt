@@ -1,0 +1,10 @@
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\bin\Debug\project_minicompiler.exe.config
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\bin\Debug\project_minicompiler.exe
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\bin\Debug\project_minicompiler.pdb
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\obj\Debug\project_minicompiler.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\obj\Debug\project_minicompiler.Form1.resources
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\obj\Debug\project_minicompiler.Properties.Resources.resources
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\obj\Debug\project_minicompiler.csproj.GenerateResource.cache
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\obj\Debug\project_minicompiler.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\obj\Debug\project_minicompiler.exe
+C:\Users\Olive\source\repos\project_minicompiler\project_minicompiler\obj\Debug\project_minicompiler.pdb
